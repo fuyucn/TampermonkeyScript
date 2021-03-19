@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Better widescrren experience for douyu
 // @author       Hypn0s_
-// @match        https://www.douyu.com/1448854
+// @match        https://www.douyu.com/*
 // @icon         https://www.google.com/s2/favicons?domain=douyu.com
 // @grant        none
 // ==/UserScript==
