@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Better Douyu widescreen
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Better widescrren experience for douyu
 // @author       Hypn0s_
 // @match        https://www.douyu.com/*
